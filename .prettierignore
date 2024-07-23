@@ -3,4 +3,4 @@
 .env.*
 /.vscode
 /node_moduels
-./dist
+./dist 
